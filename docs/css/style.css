@@ -11372,8 +11372,7 @@
     }
     
     .btn.btn-white {
-        background: #fd7e14;
-        !important;
+        background: !important;
         border: 2px solid rgb(241, 30, 30) !important;
         color: #000000 !important;
     }
@@ -16837,4 +16836,8 @@ textarea.form-control {
     100% {
         stroke-dasharray: 89, 200;
         stroke-dashoffset: -136px;
-    };
+    }
+    ;
+    ;
+    ;
+    ;
